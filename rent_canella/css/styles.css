@@ -1,0 +1,7 @@
+﻿.navbar-brand > img {
+    width: 100px;
+}
+
+.navbar-brand {
+    float: left;
+}

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "rent_canella", "rent_canella\", "{701ED418-CD7E-4ECD-9AFD-38D1429DE195}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59369"
+		Debug.AspNetCompiler.PhysicalPath = "rent_canella\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59369\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59369"
+		Release.AspNetCompiler.PhysicalPath = "rent_canella\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59369\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59369"
+		SlnRelativePath = "rent_canella\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701ED418-CD7E-4ECD-9AFD-38D1429DE195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701ED418-CD7E-4ECD-9AFD-38D1429DE195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A412653B-E5A9-4717-83B3-32BDA953A857}
+	EndGlobalSection
+EndGlobal
